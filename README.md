@@ -1,1 +1,1 @@
-This is a Numpy Tutorial Notebbok.
+This is a Numpy Tutorial Notebook.
